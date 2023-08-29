@@ -9,7 +9,7 @@
 - [@PedroVazN](https://github.com/PedroVazN)
 - [@LucasTakeshi](https://github.com/luctakeshi)
 - [@IsabelleDamaceno](https://www.github.com/gaybyzinha)
-- [@Gabrielly](https://www.github.com/gabyzinha)
+- [@Gabrielly](https://www.github.com/gaybyzinha)
 
 
 # SENAIFLIX
