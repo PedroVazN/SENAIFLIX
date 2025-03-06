@@ -3,15 +3,6 @@
 
 ![App Screenshot](https://github.com/PedroVazN/SENAIFLIX/blob/main/SENAIFLIX.png?raw=true)
 
-
-## Autores
-
-- [@PedroVazN](https://github.com/PedroVazN)
-- [@LucasTakeshi](https://github.com/luctakeshi)
-- [@IsabelleDamaceno](https://www.github.com/gaybyzinha)
-- [@Gabrielly](https://www.github.com/gaybyzinha)
-
-
 # SENAIFLIX
 
 SENAIFlix - Aplicativo de Streaming
